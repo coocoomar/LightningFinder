@@ -256,7 +256,7 @@ Questions, bug reports and feature requests are always welcome.
 
 <br>
 
-**Designed by a storm chaser, for storm chasers.**
+**From a storm chaser, for storm chasers.**
 
 <br>
 
