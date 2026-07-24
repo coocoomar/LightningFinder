@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="assets/hero.png" alt="Lightning Finder" width="100%">
+<img src="assets/1-hero.png" alt="Lightning Finder" width="100%">
 
-# ⚡ Lightning Finder
+# Lightning Finder
 
 ### Review hours of storm footage in minutes.
 
@@ -24,7 +24,7 @@ Lightning Finder automatically detects lightning strikes in video recordings, he
 
 ---
 
-> **🟢 Public Beta is now open.**
+> **Public Beta is now open.**
 >
 > Join the TestFlight beta, try Lightning Finder with your own recordings and help shape future releases through your feedback.
 
@@ -68,7 +68,7 @@ Everything happens locally on your Mac.
 
 <div align="center">
 
-<img src="assets/results.png" alt="Detection Results" width="100%">
+<img src="assets/3-detection-results.png" alt="Detection Results" width="100%">
 
 </div>
 
@@ -80,7 +80,7 @@ Browse every detected event, inspect confidence values and instantly jump to any
 
 <div align="center">
 
-<img src="assets/analysis.png" alt="Analysis" width="100%">
+<img src="assets/2-analysis.png" alt="Analysis" width="100%">
 
 </div>
 
@@ -92,7 +92,7 @@ Lightning Finder continuously analyzes the recording while displaying live progr
 
 <div align="center">
 
-<img src="assets/export.png" alt="Export" width="100%">
+<img src="assets/4-export.png" alt="Export" width="100%">
 
 </div>
 
@@ -104,7 +104,7 @@ Export only the clips you need with a single click.
 
 <div align="center">
 
-<img src="assets/settings.png" alt="Settings" width="720">
+<img src="assets/5-settings.png" alt="Settings" width="720">
 
 </div>
 
@@ -116,7 +116,7 @@ Fine-tune sensitivity, confidence threshold and exported clip duration to match 
 
 <div align="center">
 
-<img src="assets/about.png" alt="About" width="420">
+<img src="assets/6-about.png" alt="About" width="420">
 
 </div>
 
