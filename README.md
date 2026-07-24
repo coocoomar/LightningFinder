@@ -8,7 +8,7 @@
 
 Lightning Finder automatically detects lightning strikes in video recordings, helping you review hours of storm footage in just minutes.
 
-**Spend your time reviewing lightning, not searching for it.**
+**Spend your time chasing the storm, not reviewing the shots.**
 
 <br>
 
