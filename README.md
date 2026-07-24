@@ -1,12 +1,14 @@
 <div align="center">
 
-<img src="assets/1-hero.png" alt="Lightning Finder" width="100%">
+<img src="assets/hero.png" alt="Lightning Finder" width="100%">
 
 # ⚡ Lightning Finder
 
-### Detect lightning in videos automatically.
+### Review hours of storm footage in minutes.
 
-Lightning Finder is a native macOS application that analyzes video recordings and automatically detects lightning flashes, allowing you to review hours of footage in minutes instead of manually searching frame by frame.
+Lightning Finder automatically detects lightning strikes in video recordings, helping you review hours of storm footage in just minutes.
+
+**Spend your time reviewing lightning, not searching for it.**
 
 <br>
 
@@ -22,9 +24,15 @@ Lightning Finder is a native macOS application that analyzes video recordings an
 
 ---
 
-> **🚧 Lightning Finder is currently in Public Beta.**
+> **🟢 Public Beta is now open.**
 >
-> Join the TestFlight beta, try it with your own recordings and help shape future releases through your feedback.
+> Join the TestFlight beta, try Lightning Finder with your own recordings and help shape future releases through your feedback.
+
+<br>
+
+| ⚡ Native macOS | 🔒 Local Processing | 🎬 Export Selected Clips |
+|:---------------:|:------------------:|:-----------------------:|
+| Built exclusively for macOS | Videos never leave your Mac | Export only the moments that matter |
 
 ---
 
@@ -48,40 +56,57 @@ Everything happens locally on your Mac.
 | 🎬 **Export Selected Clips** | Export only the moments you want instead of the complete recording. |
 | 📍 **Lightning Timeline** | Instantly jump between detected lightning events. |
 | 🎯 **Confidence Filtering** | Reduce false detections using adjustable confidence thresholds. |
+| ✅ **False Detection Management** | Mark false detections to keep only the lightning events that matter. |
 | ⚙️ **Fully Configurable** | Adjust sensitivity, confidence and clip duration. |
 | 🔒 **Private by Design** | Your videos never leave your Mac. |
 
 ---
 
-# Gallery
+# In Action
 
-## Detection Results
+## Review Results
 
-<img src="assets/3-detection-results.png" width="100%">
+<div align="center">
+
+<img src="assets/results.png" alt="Detection Results" width="100%">
+
+</div>
 
 Browse every detected event, inspect confidence values and instantly jump to any lightning strike.
 
 ---
 
-## Video Analysis
+## Analysis
 
-<img src="assets/2-analysis.png" width="100%">
+<div align="center">
+
+<img src="assets/analysis.png" alt="Analysis" width="100%">
+
+</div>
 
 Lightning Finder continuously analyzes the recording while displaying live progress and the number of detected lightning strikes.
 
 ---
 
-## Export Clips
+## Export
 
-<img src="assets/4-export.png" width="100%">
+<div align="center">
+
+<img src="assets/export.png" alt="Export" width="100%">
+
+</div>
 
 Export only the clips you need with a single click.
 
 ---
 
-## Settings
+## Detection Settings
 
-<img src="assets/5-settings.png" width="720">
+<div align="center">
+
+<img src="assets/settings.png" alt="Settings" width="720">
+
+</div>
 
 Fine-tune sensitivity, confidence threshold and exported clip duration to match different recording conditions.
 
@@ -89,7 +114,11 @@ Fine-tune sensitivity, confidence threshold and exported clip duration to match 
 
 ## About
 
-<img src="assets/6-about.png" width="420">
+<div align="center">
+
+<img src="assets/about.png" alt="About" width="420">
+
+</div>
 
 Built exclusively for macOS.
 
@@ -121,7 +150,7 @@ Just choose a video and start analyzing.
 
 ---
 
-# Perfect For
+# Built For
 
 - ⛈️ Storm chasers
 - 🌩️ Weather enthusiasts
@@ -143,7 +172,7 @@ Your recordings:
 - are never shared
 - are never processed in the cloud
 
-Privacy Policy
+### Privacy Policy
 
 https://coocoomar.github.io/lightningfinder-legal/
 
@@ -161,18 +190,13 @@ Every report helps improve future releases.
 
 ---
 
-# Roadmap
+# Coming Next
 
-Future updates include:
-
-- Batch video analysis
+- Batch analysis
 - Timestamp export
-- Additional export options
-- More supported video formats
+- More export options
+- Additional video formats
 - Performance improvements
-- Workflow refinements
-- Additional keyboard shortcuts
-- Continued detection improvements
 
 ---
 
@@ -232,12 +256,16 @@ Questions, bug reports and feature requests are always welcome.
 
 <br>
 
+**Designed by a storm chaser, for storm chasers.**
+
+<br>
+
 Developed by **coocoomar**
 
 © 2026 coocoomar. All rights reserved.
 
 Lightning Finder is proprietary software.
 
-**The source code is private and is not publicly available.**
+**Source code is not publicly available.**
 
 </div>
